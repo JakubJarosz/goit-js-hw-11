@@ -1,4 +1,4 @@
-# goit-markup-hw-03
+# goit-js-hw-11
 
 Site for searching pictures. Using API, JS, HTML, CSS
 
